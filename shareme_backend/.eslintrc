@@ -1,0 +1,6 @@
+{
+  "extends": "@sanity/eslint-config-studio",
+  "rules": {
+    "import/prefer-default-export": "off"
+  }
+}
